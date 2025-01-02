@@ -1,12 +1,4 @@
- # UAS_MOBILE_SM3
 
-Nama: Abdul Aziz<br>
-Kelas : TI 22.A.1<br>
-NIM: 312210022<br>
-Matakuliah : Pemrograman Mobile<br>
-Dosen pengajar : Donny Maulana, S.Kom., M.M.S.I.
-
-<h3>Assalamualaikum Wr.Wb disini saya akan menampilkan hasil akhir project atau Project UAS ,serta menampilkan codingan yang berfungsi untuk menampilkan Fragment serta menammpilkan video yang didalamnya ada kode youtube di dalam Fragment java nya serta memasukan gambar dengan fungsi imagebutton berikut adalah hasilnya dan juga ada beberapa project sebelumnnya</h3>
 
   
 ## DAFTAR ISI <br>
